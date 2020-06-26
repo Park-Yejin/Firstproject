@@ -1,0 +1,10 @@
+
+m
+java:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(Χ“Ύρωÿÿÿÿ8ΡΖ®.
+J
+java:S1172D"(Remove this unused method parameter "v".(ύ²νÿϋÿÿÿÿ8’¦Λ®.
+E
+java:S11482"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΡΖ®.
+E
+java:S11486"#Use a logger to log this exception.(‚”‰­ÿÿÿÿÿ8ΡΖ®.
+C	java:S131!""Add a default case to this switch.(Χ“Ύρωÿÿÿÿ8ΡΖ®.
